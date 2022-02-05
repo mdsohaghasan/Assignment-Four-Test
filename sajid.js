@@ -1,17 +1,17 @@
-// Problem solving1 anaToVori 
+// // Problem solving1 anaToVori 
 
-function anaToVori(ana) {
-    var vori = ana / 16;
-    if (ana <= 0) {
-        console.log("Can't do the calculation");
-    }
-    else {
-        return vori;
-    }
-}
+// function anaToVori(ana) {
+//     var vori = ana / 16;
+//     if (ana <= 0) {
+//         console.log("Can't do the calculation");
+//     }
+//     else {
+//         return vori;
+//     }
+// }
 
-var Result = anaToVori(16);
-console.log(Result);
+// var Result = anaToVori(16);
+// console.log(Result);
 
 
 // problem solving2 pandaCost

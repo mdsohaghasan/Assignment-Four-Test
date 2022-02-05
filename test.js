@@ -17,5 +17,6 @@ function oddFriend(friends) {
 
     return newFriend;
 }
-let a = oddFriend(friends);
-console.log(a);
+
+let Result = oddFriend(friends);
+console.log(Result);
