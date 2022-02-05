@@ -1,4 +1,4 @@
-// Problem solving 1 : anaToVori 
+// Problem 1 : anaToVori 
 
 function anaToVori(ana) {
     var vori = ana / 16;
