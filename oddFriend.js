@@ -21,3 +21,9 @@ function oddFriend(friends) {
 
 let Result = oddFriend(friends);
 console.log(Result);
+
+
+
+
+
+// ৪. [ ফাংশন নেম দিতে হবে oddFriend]: বিস্তারিত ভিডিওতে দেখো। 
