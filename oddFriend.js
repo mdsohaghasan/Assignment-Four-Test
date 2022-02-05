@@ -1,4 +1,5 @@
 // // // problem 4 : oddFriend
+
 var friends = ["alamin", "roni", "mamun", "razu", "kalam"];
 
 function oddFriend(friends) {
@@ -17,5 +18,6 @@ function oddFriend(friends) {
 
     return newFriend;
 }
-let a = oddFriend(friends);
-console.log(a);
+
+let Result = oddFriend(friends);
+console.log(Result);
