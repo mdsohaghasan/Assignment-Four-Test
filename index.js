@@ -1,4 +1,4 @@
-// Problem 1 : anaToVori 
+// // // Problem 1 : anaToVori 
 
 function anaToVori(ana) {
     var vori = ana / 16;
@@ -14,7 +14,7 @@ var Result = anaToVori(16);
 console.log(Result);
 
 
-// problem 2 : pandaCost
+// // // problem 2 : pandaCost
 
 function pandaCost(singara, samocha, jilamp) {
     var singaraPrice = 7;
