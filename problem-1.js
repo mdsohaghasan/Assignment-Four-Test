@@ -12,11 +12,20 @@
 // // // problem 2 : pandaCost
 
 function pandaCost(singara, samocha, jilapi) {
-    var singaraResult = singara * 7;
-    var samochaResult = samocha * 10;
-    var jilapiResult = jilapi * 15;
-    var Result = console.log(singaraResult, samochaResult, jilapiResult);
-    return Result;
+    var singaraPrice = 7;
+    var singaraResult = singara * singaraPrice;
+    // var samochaResult = samocha * 10;
+    // var jilapiResult = jilapi * 15;
+
+    if (singaraPrice <= 6) {
+        console.log("please enter a positive number");
+    }
+    else {
+        return singaraResult;
+    }
+
+    // var Result = console.log(singaraResult, samochaResult, jilapiResult);
+    // return Result;
 }
 
 var singara = 5;
