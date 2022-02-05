@@ -42,7 +42,7 @@ var jilamp = 5;
 var totalPrice = pandaCost(singara, samocha, jilamp);
 console.log(totalPrice);
 
-// // // problem 2 : pandaCost
+// // // problem 3 : picnicBudget
 
 
 
