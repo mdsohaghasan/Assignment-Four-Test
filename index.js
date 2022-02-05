@@ -13,6 +13,7 @@ function anaToVori(ana) {
 var Result = anaToVori(16);
 console.log(Result);
 
+
 // problem 2 : pandaCost
 
 function pandaCost(singara, samocha, jilamp) {
