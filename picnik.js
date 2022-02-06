@@ -25,38 +25,9 @@ function picnicBudget(totalPeople) {
 
     }
 
-    // if(totalPeople<=0){
-    //     console.log("Please give the number from 0 onwards ");
-    // }
-    // else if(totalPeople<=100){
-    //     console.log(totalCost1);
-    // }
-    // else if(totalPeople<=200){
-    //     console.log(totalCost2);
-    // }
-    // else if(totalPeople>200){
-    //     console.log(totalCost3);
-    // }
 }
 
-picnicBudget(155);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+picnicBudget(111);
 
 
 
