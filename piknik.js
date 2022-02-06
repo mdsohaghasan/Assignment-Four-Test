@@ -30,9 +30,7 @@ function picnicBudget(participant) {
         return totalCost;
     }
 
-
-
 }
 
-var budget = picnicBudget(10);
+var budget = picnicBudget(205);
 console.log(budget);
